@@ -1,0 +1,9 @@
+hash: 57f2bf4e024552696a58c4111f879c8e221d75112cd2d6775fb702d7079e5536
+updated: 2019-01-04T14:32:03.3141985+08:00
+imports:
+- name: github.com/goinaction/code
+  version: 49fc99e6affb9aa48cab1889505aa6631ee31ace
+  subpackages:
+  - chapter2/sample/matchers
+  - chapter2/sample/search
+testImports: []

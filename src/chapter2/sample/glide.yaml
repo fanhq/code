@@ -1,0 +1,6 @@
+package: .
+import:
+- package: github.com/goinaction/code
+  subpackages:
+  - chapter2/sample/matchers
+  - chapter2/sample/search
