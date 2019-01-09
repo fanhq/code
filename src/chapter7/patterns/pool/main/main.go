@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"chapter7/patterns/pool"
+	"github.com/goinaction/code/chapter7/patterns/pool"
 )
 
 const (
