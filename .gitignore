@@ -24,4 +24,4 @@ _testmain.go
 .vscode/
 src/*/sample/vendor/*
 
-.idea
+.idea/
